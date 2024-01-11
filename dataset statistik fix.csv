@@ -1,0 +1,109 @@
+Player Name,Gender,Debut Year,Age,Height (cm),Weight (kg),Sector,Salary ($),Power Smash,Win Rate,Country
+Lin Dan,Male,2001,38,178,70,Singles,500000,220,78,China
+Akane Yamaguchi,Female,2013,24,160,58,Singles,300000,200,85,Japan
+Kento Momota,Male,2012,27,175,68,Singles,450000,215,80,Japan
+Carolina Marin,Female,2009,28,172,65,Singles,400000,210,75,Spain
+Chou Tien-chen,Male,2007,32,180,75,Singles,350000,205,70,Taiwan
+Pusarla V. Sindhu,Female,2008,26,179,65,Singles,380000,210,72,India
+Viktor Axelsen,Male,2010,28,194,90,Singles,420000,225,78,Denmark
+Nozomi Okuhara,Female,2014,26,156,53,Singles,320000,200,82,Japan
+Anthony Ginting,Male,2015,25,175,70,Singles,340000,210,77,Indonesia
+Tai Tzu-ying,Female,2010,27,163,58,Singles,380000,205,85,Taiwan
+Saina Nehwal,Female,2006,31,165,65,Singles,300000,200,72,India
+Anders Antonsen,Male,2014,24,185,78,Singles,360000,215,76,Denmark
+Ratchanok Intanon,Female,2011,26,170,60,Singles,340000,205,80,Thailand
+Jonatan Christie,Male,2017,23,178,72,Singles,320000,210,75,Indonesia
+He Bingjiao,Female,2013,26,172,63,Singles,310000,200,78,China
+Son Wan-ho,Male,2005,32,175,70,Singles,330000,205,73,South Korea
+Nitchaon Jindapol,Female,2009,29,167,62,Singles,300000,200,76,Thailand
+Kidambi Srikanth,Male,2008,29,180,75,Singles,350000,210,74,India
+Chen Yufei,Female,2016,23,170,65,Singles,370000,205,79,China
+Ng Ka Long Angus,Male,2011,29,183,80,Singles,340000,215,77,Hong Kong
+Sung Ji-hyun,Female,2006,29,169,60,Singles,320000,195,77,South Korea
+Lee Yang,Male,2015,26,188,85,Doubles,360000,230,80,Chinese Taipei
+Kim Astrup,Male,2013,28,185,78,Doubles,340000,225,75,Denmark
+Chris Adcock,Male,2004,36,180,75,Doubles,370000,215,78,England
+Liu Yuchen,Male,2014,27,190,85,Doubles,380000,230,81,China
+Yin Loo Lim,Female,2011,29,165,58,Doubles,320000,205,75,Malaysia
+Mayu Tsumugari,Female,2013,28,167,60,Singles,330000,200,75,Japan
+Praneeth B. Sai,Male,2015,28,178,72,Singles,340000,215,76,India
+Kim Sa-rang,Male,2007,35,176,70,Doubles,360000,225,78,South Korea
+Li Wenmei,Female,2014,26,168,62,Doubles,340000,210,80,China
+Ricky Karanda Suwardi,Male,2013,28,183,78,Doubles,350000,220,77,Indonesia
+Lee So-young,Female,2015,26,172,65,Doubles,350000,210,82,South Korea
+Goh V Shem,Male,2013,31,178,75,Doubles,360000,225,79,Malaysia
+Du Yue,Female,2016,25,169,60,Doubles,340000,205,77,China
+Mohammad Ahsan,Male,2006,33,182,80,Doubles,370000,230,80,Indonesia
+Ashwini Ponnappa,Female,2010,32,170,65,Doubles,330000,210,78,India
+Tan Boon Heong,Male,2005,36,185,80,Doubles,350000,220,75,Malaysia
+Huang Yaqiong,Female,2014,26,172,63,Doubles,360000,210,83,China
+Marcus Ellis,Male,2011,32,183,75,Doubles,350000,220,78,England
+Mathias Boe,Male,2003,41,191,85,Doubles,380000,230,77,Denmark
+Shiho Tanaka,Female,2012,29,163,55,Doubles,330000,200,82,Japan
+Tontowi Ahmad,Male,2004,36,178,72,Doubles,370000,225,79,Indonesia
+Yuki Fukushima,Female,2015,26,166,58,Doubles,340000,210,85,Japan
+Mayu Matsumoto,Female,2015,25,165,60,Doubles,380000,210,80,Japan
+Praveen Jordan,Male,2011,28,180,75,Doubles,350000,220,77,Indonesia
+Jiang Yanjiao,Female,2008,32,167,60,Singles,320000,205,75,China
+Huang Kaixiang,Male,2014,26,183,78,Singles,330000,215,77,China
+Chayanit Chaladchalam,Female,2015,25,165,58,Singles,340000,200,80,Thailand
+Lu Kai,Male,2010,31,188,85,Singles,360000,225,76,China
+An Se-young,Female,2019,20,169,58,Singles,310000,200,82,South Korea
+Andreas Antonsen,Male,2017,23,193,88,Singles,380000,230,78,Denmark
+Gregoria Mariska Tunjung,Female,2015,25,163,55,Singles,330000,200,79,Indonesia
+Lee Jhe-huei,Male,2014,26,183,80,Doubles,340000,220,75,Taiwan
+Chen Xiao-xin,Female,2016,23,169,60,Doubles,350000,210,80,China
+Hiroyuki Saeki,Male,2013,28,180,75,Doubles,330000,215,77,Japan
+Mark Lamsfuß,Male,2014,27,186,82,Doubles,350000,220,76,Germany
+Shin Seung-chan,Female,2014,27,174,65,Doubles,340000,210,82,South Korea
+Fajar Alfian,Male,2013,28,178,75,Doubles,330000,215,78,Indonesia
+Kim So-yeong,Female,2013,28,171,63,Doubles,360000,210,79,South Korea
+Goh Sze Fei,Male,2015,26,180,75,Doubles,340000,220,77,Malaysia
+Nami Matsuyama,Female,2013,28,163,55,Doubles,350000,210,80,Japan
+Han Chengkai,Male,2013,28,178,75,Doubles,330000,215,76,China
+Ashwini Ponnappa,Female,2010,32,170,65,Doubles,370000,210,78,India
+Jiang Yanjiao,Female,2008,32,167,60,Singles,320000,205,75,China
+Huang Kaixiang,Male,2014,26,183,78,Singles,330000,215,77,China
+Chayanit Chaladchalam,Female,2015,25,165,58,Singles,340000,200,80,Thailand
+Lu Kai,Male,2010,31,188,85,Singles,360000,225,76,China
+An Se-young,Female,2019,20,169,58,Singles,310000,200,82,South Korea
+Andreas Antonsen,Male,2017,23,193,88,Singles,380000,230,78,Denmark
+Gregoria Mariska Tunjung,Female,2015,25,163,55,Singles,330000,200,79,Indonesia
+Mark Lamsfuß,Male,2014,27,186,82,Doubles,350000,220,76,Germany
+Shin Seung-chan,Female,2014,27,174,65,Doubles,340000,210,82,South Korea
+Fajar Alfian,Male,2013,28,178,75,Doubles,330000,215,78,Indonesia
+Takeshi Kamura,Male,2012,30,175,68,Doubles,350000,220,80,Japan
+Chen Qingchen,Female,2014,25,168,60,Doubles,360000,210,79,China
+Hiroyuki Endo,Male,2005,36,180,75,Doubles,370000,225,80,Japan
+Pranaav Jerry Chopra,Male,2010,31,185,80,Doubles,330000,215,77,India
+Greysia Polii,Female,2006,34,168,62,Doubles,350000,210,78,Indonesia
+Goh V Shem,Male,2013,31,178,75,Doubles,360000,225,79,Malaysia
+Du Yue,Female,2016,25,169,60,Doubles,340000,205,77,China
+Ashwini Ponnappa,Female,2010,32,170,65,Doubles,330000,210,78,India
+Mohammad Ahsan,Male,2006,33,182,80,Doubles,370000,230,80,Indonesia
+Ashwini Ponnappa,Female,2010,32,170,65,Doubles,330000,210,78,India
+Chayanit Chaladchalam,Female,2015,25,165,58,Singles,340000,200,80,Thailand
+Ratchanok Intanon,Female,2011,26,170,60,Singles,340000,205,80,Thailand
+Tai Tzu-ying,Female,2010,27,163,58,Singles,380000,205,85,Taiwan
+Lee Yang,Male,2015,26,188,85,Doubles,360000,230,80,Chinese Taipei
+Chou Tien-chen,Male,2007,32,180,75,Singles,350000,205,70,Taiwan
+Nozomi Okuhara,Female,2014,26,156,53,Singles,320000,200,82,Japan
+Mayu Matsumoto,Female,2015,25,165,60,Doubles,380000,210,80,Japan
+Shin Seung-chan,Female,2014,27,174,65,Doubles,340000,210,82,South Korea
+Lee So-hee,Female,2013,28,169,58,Doubles,340000,210,80,South Korea
+Kim Astrup,Male,2013,28,185,78,Doubles,340000,225,75,Denmark
+Anders Antonsen,Male,2014,24,185,78,Singles,360000,215,76,Denmark
+Mathias Boe,Male,2003,41,191,85,Doubles,380000,230,77,Denmark
+Huang Kaixiang,Male,2014,26,183,78,Singles,330000,215,77,China
+Jiang Yanjiao,Female,2008,32,167,60,Singles,320000,205,75,China
+Li Wenmei,Female,2014,26,168,62,Doubles,340000,210,80,China
+Sarah Tan,Female,2015,26,165,58,Singles,40,000,85,75,Malaysia
+Javier Rodriguez,Male,2014,30,175,70,Doubles,35,000,80,68,Spain
+Li Mei,Female,2016,23,162,55,Singles,38,000,82,72,China
+Andre Silva,Male,2013,32,180,75,Singles,42,000,88,70,Brazil
+Yuki Tanaka,Female,2017,21,168,60,Doubles,37,000,78,65,Japan
+Elena Petrova,Female,2014,29,170,63,Singles,39,000,84,73,Russia
+Raj Patel,Male,2015,27,176,68,Singles,41,000,87,69,India
+Carla Fernandez,Female,2016,24,163,56,Doubles,36,000,79,66,Mexico
+Chang Wei,Male,2017,22,178,72,Doubles,38,500,81,71,China
+Sofia Garcia,Female,2013,30,167,59,Singles,40,500,86,74,Spain
